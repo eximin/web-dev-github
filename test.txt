@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 This is my another commit!
 fasfasdf
 another commit
 sdfasfdasf
+=======
+This is my another good commit!
+
+another afasdfasfaf
+>>>>>>> feature
